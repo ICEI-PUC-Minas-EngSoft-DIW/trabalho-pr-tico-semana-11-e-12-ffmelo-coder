@@ -21,10 +21,6 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ![DELETE - Remover carta](insomnia-test-img/delete-test.png)
 
-**Print da aba NETWORK com requisições Fetch/XHR POST e GET**
-
-![Network - Requisições Fetch/XHR](insomnia-test-img/network-fetch-xhr.png)
-
 ## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:
