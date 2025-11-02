@@ -7,7 +7,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 ## Informações do trabalho
 
 - Nome: Filipe Faria Melo
-- Matricula:
+- Matricula: 730453
 - Proposta de projeto escolhida: Galeria Cartas MTG
 - Breve descrição sobre seu projeto: Galeria de cartas para magic the gathering, incluido preço, raridade e infos adicionais.
 
